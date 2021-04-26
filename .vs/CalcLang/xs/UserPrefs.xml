@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CFCEF6E0-62EB-4FCA-B7B2-5DFF954F81EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalcLang/Program.cs">
+    <Files>
+      <File FileName="CalcLang/Program.cs" Line="18" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalcLang" expanded="True">
+            <Node name="CalcLang" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CalcLang PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

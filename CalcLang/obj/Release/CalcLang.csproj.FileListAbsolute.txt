@@ -1,0 +1,7 @@
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/bin/Release/CalcLang.exe.config
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/bin/Release/CalcLang.exe
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/bin/Release/CalcLang.pdb
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/obj/Release/CalcLang.csproj.CoreCompileInputs.cache
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/obj/Release/CalcLang.exe
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/obj/Release/CalcLang.pdb
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/obj/Release/CalcLang.csprojAssemblyReference.cache

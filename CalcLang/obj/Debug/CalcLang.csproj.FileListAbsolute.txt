@@ -1,0 +1,32 @@
+c:/users/greg/documents/visual studio 2012/Projects/CalcLang/CalcLang/bin/Debug/CalcLang.exe.config
+c:/users/greg/documents/visual studio 2012/Projects/CalcLang/CalcLang/bin/Debug/CalcLang.exe
+c:/users/greg/documents/visual studio 2012/Projects/CalcLang/CalcLang/bin/Debug/CalcLang.pdb
+c:/users/greg/documents/visual studio 2012/Projects/CalcLang/CalcLang/obj/Debug/CalcLang.csprojResolveAssemblyReference.cache
+c:/users/greg/documents/visual studio 2012/Projects/CalcLang/CalcLang/obj/Debug/CalcLang.exe
+c:/users/greg/documents/visual studio 2012/Projects/CalcLang/CalcLang/obj/Debug/CalcLang.pdb
+E:/CalcLang/CalcLang/bin/Debug/CalcLang.exe.config
+E:/CalcLang/CalcLang/obj/Debug/CalcLang.exe
+E:/CalcLang/CalcLang/obj/Debug/CalcLang.pdb
+E:/CalcLang/CalcLang/obj/Debug/CalcLang.csprojResolveAssemblyReference.cache
+E:/CalcLang/CalcLang/bin/Debug/CalcLang.exe
+E:/CalcLang/CalcLang/bin/Debug/CalcLang.pdb
+E:/CalcLang/CalcLang/obj/Debug/CalcLang.csproj.CoreCompileInputs.cache
+D:/CalcLang/CalcLang/bin/Debug/CalcLang.exe.config
+D:/CalcLang/CalcLang/obj/Debug/CalcLang.exe
+D:/CalcLang/CalcLang/obj/Debug/CalcLang.pdb
+D:/CalcLang/CalcLang/bin/Debug/CalcLang.exe
+D:/CalcLang/CalcLang/bin/Debug/CalcLang.pdb
+D:/CalcLang/CalcLang/obj/Debug/CalcLang.csprojResolveAssemblyReference.cache
+C:/C_Sharp/CalcLang/CalcLang/bin/Debug/CalcLang.exe.config
+C:/C_Sharp/CalcLang/CalcLang/obj/Debug/CalcLang.exe
+C:/C_Sharp/CalcLang/CalcLang/obj/Debug/CalcLang.pdb
+C:/C_Sharp/CalcLang/CalcLang/bin/Debug/CalcLang.exe
+C:/C_Sharp/CalcLang/CalcLang/bin/Debug/CalcLang.pdb
+C:/C_Sharp/CalcLang/CalcLang/obj/Debug/CalcLang.csprojResolveAssemblyReference.cache
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/bin/Debug/CalcLang.exe.config
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/bin/Debug/CalcLang.exe
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/bin/Debug/CalcLang.pdb
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/obj/Debug/CalcLang.csprojAssemblyReference.cache
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/obj/Debug/CalcLang.csproj.CoreCompileInputs.cache
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/obj/Debug/CalcLang.exe
+/Users/maxburdette/Desktop/Git/CalcLang/CalcLang/obj/Debug/CalcLang.pdb
